@@ -1,0 +1,10 @@
+C:\Users\Nyagaka\AppData\Local\Temporary Projects\Mid Point Circle Algorithm\bin\Debug\Mid Point Circle Algorithm.exe.config
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\bin\Debug\Mid Point Circle Algorithm.exe.config
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\bin\Debug\Mid Point Circle Algorithm.exe
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\bin\Debug\Mid Point Circle Algorithm.pdb
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid Point Circle Algorithm.csprojResolveAssemblyReference.cache
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid_Point_Circle_Algorithm.Form1.resources
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid_Point_Circle_Algorithm.Properties.Resources.resources
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid Point Circle Algorithm.csproj.GenerateResource.Cache
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid Point Circle Algorithm.exe
+D:\Projects\Mid Point Circle Algorithm\Mid Point Circle Algorithm\obj\Debug\Mid Point Circle Algorithm.pdb
